@@ -219,19 +219,19 @@ prompt 12 records loaded
 
 INSERT INTO CLIENTI (ID_CLIENT, NUME, PRENUME, TELEFON, EMAIL, SALARIU, DATA_NASTERE, SEX, ID_TARA)
 VALUES 
-  (1, 'Popescu', 'Ion', '072-112-3456', 'ion.popescu@email.com', 5000, TO_DATE('15-05-1990', 'DD-MM-YYYY'), 'M', 'RO');
+  (1, 'Popescu', 'Ion', '0721123456', 'ion.popescu@email.com', 5000, TO_DATE('15-05-1990', 'DD-MM-YYYY'), 'M', 'RO');
 INSERT INTO CLIENTI (ID_CLIENT, NUME, PRENUME, TELEFON, EMAIL, SALARIU, DATA_NASTERE, SEX, ID_TARA)
 VALUES 
-  (2, 'Smith', 'John', '073-212-3456', 'john.smith@email.com', 6000, TO_DATE('20-08-1985', 'DD-MM-YYYY'), 'M', 'US');
+  (2, 'Smith', 'John', '0732123456', 'john.smith@email.com', 6000, TO_DATE('20-08-1985', 'DD-MM-YYYY'), 'M', 'US');
 INSERT INTO CLIENTI (ID_CLIENT, NUME, PRENUME, TELEFON, EMAIL, SALARIU, DATA_NASTERE, SEX, ID_TARA)
 VALUES 
-  (3, 'Martin', 'Sophie', '071-311-1111', 'sophie.martin@email.com', 5500, TO_DATE('10-12-1988', 'DD-MM-YYYY'), 'F', 'CA');
+  (3, 'Martin', 'Sophie', '0713111111', 'sophie.martin@email.com', 5500, TO_DATE('10-12-1988', 'DD-MM-YYYY'), 'F', 'CA');
 INSERT INTO CLIENTI (ID_CLIENT, NUME, PRENUME, TELEFON, EMAIL, SALARIU, DATA_NASTERE, SEX, ID_TARA)
 VALUES 
-  (4, 'Ionescu', 'Ana', '074-422-2222', 'ana.ionescu@email.com', 7000, TO_DATE('25-03-1982', 'DD-MM-YYYY'), 'F', 'RO');
+  (4, 'Ionescu', 'Ana', '0744222222', 'ana.ionescu@email.com', 7000, TO_DATE('25-03-1982', 'DD-MM-YYYY'), 'F', 'RO');
 INSERT INTO CLIENTI (ID_CLIENT, NUME, PRENUME, TELEFON, EMAIL, SALARIU, DATA_NASTERE, SEX, ID_TARA)
 VALUES 
-  (5, 'Lefevre', 'Antoine', '0766-333-333', 'antoine.lefevre@email.com', 4800, TO_DATE('18-06-1995', 'DD-MM-YYYY'), 'M', 'CA');
+  (5, 'Lefevre', 'Antoine', '0766333333', 'antoine.lefevre@email.com', 4800, TO_DATE('18-06-1995', 'DD-MM-YYYY'), 'M', 'CA');
 INSERT INTO CLIENTI (ID_CLIENT, NUME, PRENUME, TELEFON, EMAIL, SALARIU, DATA_NASTERE, SEX, ID_TARA)
 VALUES 
   (6, 'Dubois', 'Camille', '0722444444', 'camille.dubois@email.com', 6200, TO_DATE('03-09-1980', 'DD-MM-YYYY'), 'F', 'DE');
